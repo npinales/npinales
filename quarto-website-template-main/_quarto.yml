@@ -11,7 +11,7 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /NPinales_Pic.jpeg
+    logo: /brain.png
     
     # your sub-pages
     left:

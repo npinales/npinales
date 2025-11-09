@@ -22,5 +22,5 @@ She is also currently expanding her research skills by pursuing a Master of Scie
 
 Please feel free to [contact me](mailto:mail.nxs1002@case.edu) if you have any questions or would like to discuss potential collaborations. 
 
-Noni built this Github website in R, and thanks Marvin Schmitt for the template.
+Noni built this Github website in R and thanks Marvin Schmitt for the template.
 
