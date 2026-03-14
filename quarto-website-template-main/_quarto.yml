@@ -17,8 +17,11 @@ website:
     left:
       - text: "About Me"
         href: projects/index.qmd
+        href: cv/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
     
     
     # your social media handles
