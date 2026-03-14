@@ -1,8 +1,6 @@
 ---
-  title: "Blog"
-page-layout: article
-execute:
-  freeze: true
+title: "Blog"
+layout: page
 ---
 
 # Social Media in Psychological Sciences
