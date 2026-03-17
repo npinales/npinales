@@ -16,7 +16,7 @@ website:
     # your sub-pages
     left:
       - text: "About Me"
-        href: projects/index.qmd
+        href: projects/index.html
       - text: "CV"
         href: cv/index.qmd
       - text: "Blog"
