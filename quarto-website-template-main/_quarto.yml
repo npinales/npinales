@@ -40,7 +40,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2026 Noni Pinales</span>
+      <span class="faux-block">&#169; 2025 Noni Pinales</span>
     right: |
       <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">Template by Marvin Schmitt</a></span>
 
