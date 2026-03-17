@@ -1,7 +1,5 @@
 ---
 title: "Blog"
-execute:
-  freeze: true
 ---
 
 # Social Media in Psychological Sciences
